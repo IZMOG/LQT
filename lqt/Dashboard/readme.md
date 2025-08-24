@@ -2,7 +2,7 @@
 
 A comprehensive AI-powered sustainability monitoring dashboard designed specifically for the Head of Sustainability at textile manufacturing companies to track energy, water, waste, and emissions metrics in real-time.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/10b981/ffffff?text=Sustainability+Dashboard)
+
 
 ## 🎯 Overview
 
